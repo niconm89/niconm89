@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Nicolás Nahuel Moreyra (@niconm89)
-- :computer::bug::cactus: I am a Postdoctoral Researcher at UBA-CONICET (Argentina).
-- 👀 I’m interested in Comparative Genomics, Genome Assembly, Gene Evolution and Phylogenomics.
-- 🌱 I’m currently learning how to develop tools more efficiently.
-- 💞️ I’m looking to collaborate on new projects in evolutionary biology and bioinformatics.
+
+- 🧬💻 I’m a PhD bioinformatician working at the intersection of genomics, data science, and AI-enabled biotech R&D.
+
+- 🧠 My work focuses on omics data analysis, comparative genomics, genome and transcriptome assembly, phylogenomics, and biological interpretation of complex datasets.
+
+- ⚙️ I design reproducible, scalable bioinformatics workflows and analytical tools to support R&D decision-making in biotech and health-tech contexts.
+
+- 🤖 I’m particularly interested in applying machine learning and AI approaches to biological data integration and experimental prioritization.
+
+- 🤝 Open to collaborations and consulting projects in biotech, genomics, and applied AI.
+
 - 📫 How to reach me: niconm89@gmail.com
 
 <!---
